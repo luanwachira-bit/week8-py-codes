@@ -1,0 +1,7 @@
+cord_uid,title,doi,abstract,publish_time,authors,journal,source_x
+1,Understanding COVID-19 transmission,10.1000/xyz,"Study on transmission routes.",2020-03-15,Smith J; Doe A,Journal A,pmc
+2,COVID-19 and immune response,10.1000/abc,"Immune response analysis.",2021-06-01,Lee B; Kumar S,Journal B,pmc
+3,SARS-CoV-2 vaccine development,10.1000/def,"Vaccine candidates evaluated.",2020-12-10,Garcia M,Journal A,pmc
+4,Clinical outcomes of COVID-19,10.1000/ghi,"Clinical data from hospitals.",2019-11-20,Brown T; Green E,Journal C,arXiv
+5,Long-term effects of SARS-CoV-2,10.1000/jkl,"Follow-up study showing long term effects.",2022-02-05,Wang L,Journal D,pmc
+6,Title with missing date,10.1000/mno,"No publish time available.",,Doe J,Journal E,other
